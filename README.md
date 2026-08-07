@@ -25,7 +25,7 @@
 
 ![개발기간](https://img.shields.io/badge/개발기간-2026.07.08_~_08.06-e5722a?style=flat-square&labelColor=222222&color=e5722a) [![배포](https://img.shields.io/badge/배포-mytails.site-ff8a3d?style=flat-square&labelColor=222222&color=ff8a3d)](https://mytails.site) ![팀원](https://img.shields.io/badge/팀원-2명-2e9e5b?style=flat-square&labelColor=222222&color=2e9e5b)
 
-반려동물과 함께 갈 수 있는 장소를 검색하고 여행 일정을 계획하는 서비스입니다. 2인 팀에서 백엔드와 기획을 맡아, 장소 검색·개인화 추천·여행 일정 기능을 구현했습니다.
+반려동물과 함께 갈 수 있는 장소를 검색하고 여행 일정을 계획하는 서비스입니다. 2인 팀에서 백엔드·프론트엔드·기획을 함께 진행했고, 장소 검색·개인화 추천·여행 일정 기능을 구현했습니다.
 
 - 찜·리뷰 이력 기반 콘텐츠 기반 개인화 추천 (코사인 유사도)
 - TourAPI(한국관광공사) 연동 장소 데이터 동기화, 키워드·카테고리·지역·반경 검색
