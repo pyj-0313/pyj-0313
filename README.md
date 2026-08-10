@@ -1,3 +1,5 @@
+<p align="center"><code>System.out.println("Hello, World!");</code></p>
+
 <h1 align="center">박영준</h1>
 <p align="center">백엔드 중심 풀스택 개발자</p>
 
@@ -9,6 +11,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pyj-0313/pyj-0313/output/github-contribution-grid-snake.svg" />
     <img alt="commit snake" src="https://raw.githubusercontent.com/pyj-0313/pyj-0313/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img alt="3d contribution graph" src="https://raw.githubusercontent.com/pyj-0313/pyj-0313/main/profile-3d-contrib/profile-green-animate.svg" />
 </p>
 
 <br>
