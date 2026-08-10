@@ -1,6 +1,6 @@
-<p align="center"><code>System.out.println("Hello, World!");</code></p>
+<h1 align="center">👋 Hello, World!</h1>
 
-<h1 align="center">박영준</h1>
+<h3 align="center">박영준</h3>
 <p align="center">백엔드 중심 풀스택 개발자</p>
 
 <br>
