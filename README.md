@@ -1,7 +1,9 @@
-<h1 align="center">👋 Hello, World!</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pyj-0313/pyj-0313/main/banner.svg" width="100%" alt="Tails banner" />
+</p>
 
-<h3 align="center">박영준</h3>
-<p align="center">백엔드 중심 풀스택 개발자</p>
+<h1 align="center">👋 안녕하세요! 저는 박영준입니다.</h1>
+<p align="center">백엔드 중심 풀스택 개발자를 목표로 성장하고 있습니다.</p>
 
 <br>
 
@@ -31,12 +33,28 @@
 
 **Backend**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,redis&theme=light" />
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,vite,sass&theme=light" />
 
 **Infra & CI/CD**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,jenkins,aws,firebase&theme=light" />
+
+<br>
+
+## Currently
+
+- Tails 프로젝트 배포 후 유지보수 및 개선 진행 중
+- 백엔드 심화 학습 (동시성 제어, 캐싱 전략)
+
+## Goals
+
+- 클린 코드와 유지보수 가능한 코드 작성하기
+- 문제를 근본 원인부터 파악해서 해결하는 습관 기르기
+
+<br>
+
+<p align="center"><sub>작은 성장이 모여 큰 변화를 만듭니다.</sub></p>
