@@ -13,10 +13,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img alt="3d contribution graph" src="https://raw.githubusercontent.com/pyj-0313/pyj-0313/main/profile-3d-contrib/profile-green-animate.svg" />
-</p>
-
 <br>
 
 ## Tails — 반려동물 동반 여행 서비스
