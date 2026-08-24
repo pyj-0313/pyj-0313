@@ -1,4 +1,6 @@
-<h1 align="center">👋 안녕하세요! 저는 박영준입니다.</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pyj-0313/pyj-0313/main/intro-banner.svg" width="100%" alt="박영준 소개 배너" />
+</p>
 <p align="center">백엔드 중심 풀스택 개발자를 목표로 성장하고 있습니다.</p>
 
 <br>

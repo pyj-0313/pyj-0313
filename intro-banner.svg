@@ -1,0 +1,18 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="220" fill="#ffffff"/>
+
+  <!-- subtle code-bracket decoration, right side -->
+  <text x="980" y="150" font-family="'SF Mono', 'Fira Code', Consolas, monospace" font-size="130" font-weight="700" fill="#f1f1f3">&lt;/&gt;</text>
+
+  <!-- greeting -->
+  <text x="60" y="88" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#6b6f76">Hello, I'm</text>
+
+  <!-- name -->
+  <text x="58" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#16181d">박영준</text>
+
+  <!-- accent underline -->
+  <rect x="60" y="164" width="86" height="6" rx="3" fill="#2f6fed"/>
+
+  <!-- role -->
+  <text x="60" y="196" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#3a3d44">Backend-leaning Fullstack Developer</text>
+</svg>
