@@ -1,18 +1,75 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="220" fill="#ffffff"/>
+<svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="stripeSoft" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff8a3d" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ff8a3d" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="stripeBold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffb15e"/>
+      <stop offset="100%" stop-color="#e5622a"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#ff8a3d" opacity="0.35"/>
+    </pattern>
+  </defs>
 
-  <!-- subtle code-bracket decoration, right side -->
-  <text x="980" y="150" font-family="'SF Mono', 'Fira Code', Consolas, monospace" font-size="130" font-weight="700" fill="#f1f1f3">&lt;/&gt;</text>
+  <rect width="1600" height="500" fill="#0a0a10"/>
 
-  <!-- greeting -->
-  <text x="60" y="88" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#6b6f76">Hello, I'm</text>
+  <!-- dot grids -->
+  <rect x="1180" y="30" width="180" height="130" fill="url(#dots)"/>
+  <rect x="1360" y="330" width="180" height="130" fill="url(#dots)"/>
+
+  <!-- thin diagonal guide lines -->
+  <g stroke="#3a3a45" stroke-width="1.5" opacity="0.6">
+    <line x1="1000" y1="500" x2="1500" y2="0"/>
+    <line x1="1100" y1="500" x2="1600" y2="0"/>
+  </g>
+
+  <!-- soft diagonal band -->
+  <polygon points="1330,0 1470,0 1150,500 1010,500" fill="url(#stripeSoft)"/>
+
+  <!-- bold diagonal band -->
+  <polygon points="1470,0 1580,0 1290,500 1180,500" fill="url(#stripeBold)"/>
+
+  <!-- thin outline diagonal -->
+  <polygon points="1580,0 1620,0 1360,500 1320,500" fill="none" stroke="#ff8a3d" stroke-width="2" opacity="0.6"/>
+
+  <!-- circuit dots -->
+  <circle cx="1235" cy="300" r="6" fill="#ff8a3d"/>
+  <line x1="1235" y1="300" x2="1235" y2="215" stroke="#ff8a3d" stroke-width="1.5" opacity="0.7"/>
+  <circle cx="1400" cy="205" r="4" fill="#ff8a3d" opacity="0.8"/>
+
+  <!-- code bracket icon -->
+  <text x="60" y="110" font-family="'SF Mono', Consolas, monospace" font-size="46" font-weight="600" fill="#ff8a3d" letter-spacing="4">&lt;/&gt;</text>
+
+  <!-- vertical accent line -->
+  <line x1="60" y1="150" x2="60" y2="430" stroke="#26262e" stroke-width="2"/>
 
   <!-- name -->
-  <text x="58" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#16181d">박영준</text>
+  <text x="100" y="255" font-family="'Segoe UI', Arial, sans-serif" font-size="88" font-weight="800" fill="#f5f5f7">PARK</text>
+  <text x="330" y="255" font-family="'Segoe UI', Arial, sans-serif" font-size="88" font-weight="800" fill="#ff8a3d">YOUNGJUN</text>
 
-  <!-- accent underline -->
-  <rect x="60" y="164" width="86" height="6" rx="3" fill="#2f6fed"/>
+  <!-- subtitle -->
+  <text x="102" y="310" font-family="'Segoe UI', Arial, sans-serif" font-size="34" fill="#d8d8dc">Backend Developer</text>
 
-  <!-- role -->
-  <text x="60" y="196" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#3a3d44">Backend Developer</text>
+  <!-- underline -->
+  <rect x="102" y="332" width="130" height="5" rx="2.5" fill="#ff8a3d"/>
+
+  <!-- stack row -->
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="26" fill="#d8d8dc">
+    <image href="https://skillicons.dev/icons?i=java&theme=dark" x="102" y="380" width="46" height="46"/>
+    <text x="158" y="410">Java</text>
+
+    <image href="https://skillicons.dev/icons?i=spring&theme=dark" x="290" y="380" width="46" height="46"/>
+    <text x="346" y="410">Spring Boot</text>
+
+    <image href="https://skillicons.dev/icons?i=mysql&theme=dark" x="560" y="380" width="46" height="46"/>
+    <text x="616" y="410">MySQL</text>
+
+    <image href="https://skillicons.dev/icons?i=react&theme=dark" x="770" y="380" width="46" height="46"/>
+    <text x="826" y="410">React</text>
+  </g>
+
+  <!-- bottom tagline -->
+  <text x="102" y="465" font-family="'SF Mono', Consolas, monospace" font-size="22" fill="#8a8a92">// Code. Learn. Build.</text>
 </svg>
