@@ -56,18 +56,18 @@
   <rect x="102" y="332" width="130" height="5" rx="2.5" fill="#ff8a3d"/>
 
   <!-- stack row -->
-  <g font-family="'Segoe UI', Arial, sans-serif" font-size="26" fill="#d8d8dc">
-    <image href="https://skillicons.dev/icons?i=java&amp;theme=dark" x="102" y="380" width="46" height="46"/>
-    <text x="158" y="410">Java</text>
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600" fill="#e8e8ec">
+    <image href="https://skillicons.dev/icons?i=java&amp;theme=dark" x="102" y="376" width="52" height="52"/>
+    <text x="170" y="412">Java</text>
 
-    <image href="https://skillicons.dev/icons?i=spring&amp;theme=dark" x="290" y="380" width="46" height="46"/>
-    <text x="346" y="410">Spring Boot</text>
+    <image href="https://skillicons.dev/icons?i=spring&amp;theme=dark" x="320" y="376" width="52" height="52"/>
+    <text x="388" y="412">Spring Boot</text>
 
-    <image href="https://skillicons.dev/icons?i=mysql&amp;theme=dark" x="560" y="380" width="46" height="46"/>
-    <text x="616" y="410">MySQL</text>
+    <image href="https://skillicons.dev/icons?i=mysql&amp;theme=dark" x="640" y="376" width="52" height="52"/>
+    <text x="708" y="412">MySQL</text>
 
-    <image href="https://skillicons.dev/icons?i=react&amp;theme=dark" x="770" y="380" width="46" height="46"/>
-    <text x="826" y="410">React</text>
+    <image href="https://skillicons.dev/icons?i=react&amp;theme=dark" x="870" y="376" width="52" height="52"/>
+    <text x="938" y="412">React</text>
   </g>
 
   <!-- bottom tagline -->
