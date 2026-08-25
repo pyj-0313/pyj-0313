@@ -57,16 +57,38 @@
 
   <!-- stack row -->
   <g font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600" fill="#e8e8ec">
-    <image href="https://skillicons.dev/icons?i=java&amp;theme=dark" x="102" y="376" width="52" height="52"/>
+
+    <!-- Java: coffee cup -->
+    <g transform="translate(102,378)" fill="none" stroke="#ff8a3d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M6 20 h32 v14 a16 16 0 0 1 -16 16 h0 a16 16 0 0 1 -16 -16 z"/>
+      <path d="M38 24 h6 a7 7 0 0 1 0 14 h-6"/>
+      <path d="M14 4 q4 5 0 9" stroke-width="2.5"/>
+      <path d="M24 2 q4 5 0 9" stroke-width="2.5"/>
+    </g>
     <text x="170" y="412">Java</text>
 
-    <image href="https://skillicons.dev/icons?i=spring&amp;theme=dark" x="320" y="376" width="52" height="52"/>
+    <!-- Spring Boot: leaf -->
+    <g transform="translate(320,378)" fill="#ff8a3d">
+      <path d="M46 4 C46 28 28 46 4 46 C4 26 12 4 46 4 Z"/>
+      <path d="M8 42 C20 30 30 20 42 8" stroke="#0a0a10" stroke-width="3" fill="none" stroke-linecap="round"/>
+    </g>
     <text x="388" y="412">Spring Boot</text>
 
-    <image href="https://skillicons.dev/icons?i=mysql&amp;theme=dark" x="640" y="376" width="52" height="52"/>
+    <!-- MySQL: database stack -->
+    <g transform="translate(640,378)" fill="none" stroke="#ff8a3d" stroke-width="3">
+      <ellipse cx="26" cy="10" rx="20" ry="8"/>
+      <path d="M6 10 v14 a20 8 0 0 0 40 0 v-14" stroke-linecap="round"/>
+      <path d="M6 24 v14 a20 8 0 0 0 40 0 v-14" stroke-linecap="round"/>
+    </g>
     <text x="708" y="412">MySQL</text>
 
-    <image href="https://skillicons.dev/icons?i=react&amp;theme=dark" x="870" y="376" width="52" height="52"/>
+    <!-- React: atom -->
+    <g transform="translate(870,378) translate(26,26)" fill="none" stroke="#ff8a3d" stroke-width="3">
+      <ellipse rx="24" ry="9"/>
+      <ellipse rx="24" ry="9" transform="rotate(60)"/>
+      <ellipse rx="24" ry="9" transform="rotate(120)"/>
+      <circle r="5" fill="#ff8a3d" stroke="none"/>
+    </g>
     <text x="938" y="412">React</text>
   </g>
 
