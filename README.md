@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/pyj-0313/pyj-0313/main/intro-banner.svg" width="100%" alt="박영준 소개 배너" />
 </p>
 <p align="center">백엔드 중심 풀스택 개발자를 목표로 성장하고 있습니다.</p>
-<p align="center"><b><a href="https://pyj-0313.github.io/PORTFOLIO/">포트폴리오 바로가기 →</a></b></p>
+<p align="center">
+  <a href="https://pyj-0313.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-바로가기_→-2f6fed?style=for-the-badge" /></a>
+</p>
 
 <br>
 
