@@ -50,7 +50,7 @@
   <text x="330" y="255" font-family="'Segoe UI', Arial, sans-serif" font-size="88" font-weight="800" fill="#2f6fed">YOUNGJUN</text>
 
   <!-- subtitle -->
-  <text x="102" y="310" font-family="'Segoe UI', Arial, sans-serif" font-size="34" fill="#55504a">Backend Developer</text>
+  <text x="102" y="310" font-family="'Segoe UI', Arial, sans-serif" font-size="34" fill="#55504a">Full-Stack Developer</text>
 
   <!-- underline -->
   <rect x="102" y="332" width="130" height="5" rx="2.5" fill="#2f6fed"/>
