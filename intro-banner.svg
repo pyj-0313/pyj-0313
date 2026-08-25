@@ -57,16 +57,16 @@
 
   <!-- stack row -->
   <g font-family="'Segoe UI', Arial, sans-serif" font-size="26" fill="#d8d8dc">
-    <image href="https://skillicons.dev/icons?i=java&theme=dark" x="102" y="380" width="46" height="46"/>
+    <image href="https://skillicons.dev/icons?i=java&amp;theme=dark" x="102" y="380" width="46" height="46"/>
     <text x="158" y="410">Java</text>
 
-    <image href="https://skillicons.dev/icons?i=spring&theme=dark" x="290" y="380" width="46" height="46"/>
+    <image href="https://skillicons.dev/icons?i=spring&amp;theme=dark" x="290" y="380" width="46" height="46"/>
     <text x="346" y="410">Spring Boot</text>
 
-    <image href="https://skillicons.dev/icons?i=mysql&theme=dark" x="560" y="380" width="46" height="46"/>
+    <image href="https://skillicons.dev/icons?i=mysql&amp;theme=dark" x="560" y="380" width="46" height="46"/>
     <text x="616" y="410">MySQL</text>
 
-    <image href="https://skillicons.dev/icons?i=react&theme=dark" x="770" y="380" width="46" height="46"/>
+    <image href="https://skillicons.dev/icons?i=react&amp;theme=dark" x="770" y="380" width="46" height="46"/>
     <text x="826" y="410">React</text>
   </g>
 
