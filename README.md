@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/pyj-0313/pyj-0313/main/intro-banner.svg" width="100%" alt="박영준 소개 배너" />
 </p>
-<p align="center">백엔드 개발자 박영준입니다. 추천 시스템과 데이터 최적화에 관심이 많고, 관련 경험이 있습니다.</p>
+<p align="center">
+  새로운 기술에 관심이 많고, 직접 구현하며 배우는 개발자입니다.<br />
+  새로운 것을 배우고 프로젝트에 적용하는 과정을 좋아하며,<br />
+  문제를 해결하고 더 나은 코드를 고민하면서 꾸준히 성장하고 있습니다.
+</p>
 <p align="center">
   <a href="https://pyj-0313.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-2f6fed?style=for-the-badge" /></a>
 </p>
