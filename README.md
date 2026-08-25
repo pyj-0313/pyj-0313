@@ -3,7 +3,7 @@
 </p>
 <p align="center">백엔드 중심 풀스택 개발자를 목표로 성장하고 있습니다.</p>
 <p align="center">
-  <a href="https://pyj-0313.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-바로가기_→-2f6fed?style=for-the-badge" /></a>
+  <a href="https://pyj-0313.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-2f6fed?style=for-the-badge" /></a>
 </p>
 
 <br>
