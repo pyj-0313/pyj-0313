@@ -1,26 +1,26 @@
 <svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="stripeSoft" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#ff8a3d" stop-opacity="0.55"/>
+      <stop offset="0%" stop-color="#ff8a3d" stop-opacity="0.30"/>
       <stop offset="100%" stop-color="#ff8a3d" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="stripeBold" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#ffb15e"/>
-      <stop offset="100%" stop-color="#e5622a"/>
+      <stop offset="0%" stop-color="#ffcda3"/>
+      <stop offset="100%" stop-color="#ff8a3d"/>
     </linearGradient>
     <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="2" fill="#ff8a3d" opacity="0.35"/>
+      <circle cx="2" cy="2" r="2" fill="#ff8a3d" opacity="0.3"/>
     </pattern>
   </defs>
 
-  <rect width="1600" height="500" fill="#0a0a10"/>
+  <rect width="1600" height="500" fill="#ffffff"/>
 
   <!-- dot grids -->
   <rect x="1180" y="30" width="180" height="130" fill="url(#dots)"/>
   <rect x="1360" y="330" width="180" height="130" fill="url(#dots)"/>
 
   <!-- thin diagonal guide lines -->
-  <g stroke="#3a3a45" stroke-width="1.5" opacity="0.6">
+  <g stroke="#e8e2d9" stroke-width="1.5">
     <line x1="1000" y1="500" x2="1500" y2="0"/>
     <line x1="1100" y1="500" x2="1600" y2="0"/>
   </g>
@@ -32,31 +32,31 @@
   <polygon points="1470,0 1580,0 1290,500 1180,500" fill="url(#stripeBold)"/>
 
   <!-- thin outline diagonal -->
-  <polygon points="1580,0 1620,0 1360,500 1320,500" fill="none" stroke="#ff8a3d" stroke-width="2" opacity="0.6"/>
+  <polygon points="1580,0 1620,0 1360,500 1320,500" fill="none" stroke="#ff8a3d" stroke-width="2" opacity="0.5"/>
 
   <!-- circuit dots -->
   <circle cx="1235" cy="300" r="6" fill="#ff8a3d"/>
-  <line x1="1235" y1="300" x2="1235" y2="215" stroke="#ff8a3d" stroke-width="1.5" opacity="0.7"/>
-  <circle cx="1400" cy="205" r="4" fill="#ff8a3d" opacity="0.8"/>
+  <line x1="1235" y1="300" x2="1235" y2="215" stroke="#ff8a3d" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="1400" cy="205" r="4" fill="#ff8a3d" opacity="0.7"/>
 
   <!-- code bracket icon -->
   <text x="60" y="110" font-family="'SF Mono', Consolas, monospace" font-size="46" font-weight="600" fill="#ff8a3d" letter-spacing="4">&lt;/&gt;</text>
 
   <!-- vertical accent line -->
-  <line x1="60" y1="150" x2="60" y2="430" stroke="#26262e" stroke-width="2"/>
+  <line x1="60" y1="150" x2="60" y2="430" stroke="#e8e2d9" stroke-width="2"/>
 
   <!-- name -->
-  <text x="100" y="255" font-family="'Segoe UI', Arial, sans-serif" font-size="88" font-weight="800" fill="#f5f5f7">PARK</text>
+  <text x="100" y="255" font-family="'Segoe UI', Arial, sans-serif" font-size="88" font-weight="800" fill="#16181d">PARK</text>
   <text x="330" y="255" font-family="'Segoe UI', Arial, sans-serif" font-size="88" font-weight="800" fill="#ff8a3d">YOUNGJUN</text>
 
   <!-- subtitle -->
-  <text x="102" y="310" font-family="'Segoe UI', Arial, sans-serif" font-size="34" fill="#d8d8dc">Backend Developer</text>
+  <text x="102" y="310" font-family="'Segoe UI', Arial, sans-serif" font-size="34" fill="#55504a">Backend Developer</text>
 
   <!-- underline -->
   <rect x="102" y="332" width="130" height="5" rx="2.5" fill="#ff8a3d"/>
 
   <!-- stack row -->
-  <g font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600" fill="#e8e8ec">
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600" fill="#1c1e24">
 
     <!-- Java: coffee cup -->
     <g transform="translate(102,378)" fill="none" stroke="#ff8a3d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
@@ -70,7 +70,7 @@
     <!-- Spring Boot: leaf -->
     <g transform="translate(320,378)" fill="#ff8a3d">
       <path d="M46 4 C46 28 28 46 4 46 C4 26 12 4 46 4 Z"/>
-      <path d="M8 42 C20 30 30 20 42 8" stroke="#0a0a10" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <path d="M8 42 C20 30 30 20 42 8" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round"/>
     </g>
     <text x="388" y="412">Spring Boot</text>
 
@@ -93,5 +93,5 @@
   </g>
 
   <!-- bottom tagline -->
-  <text x="102" y="465" font-family="'SF Mono', Consolas, monospace" font-size="22" fill="#8a8a92">// Code. Learn. Build.</text>
+  <text x="102" y="465" font-family="'SF Mono', Consolas, monospace" font-size="22" fill="#8b857d">// Code. Learn. Build.</text>
 </svg>
